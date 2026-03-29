@@ -1,2 +1,18 @@
-# DSA_Solutions-Leetcode-CodeForces-CodeChef-
-Structured collection of Data Structures &amp; Algorithms problems from LeetCode, Codeforces and CodeChef with optimized solutions in Java and c.
+->  DSA Solutions 🚀
+
+This repository contains my solutions to Data Structures & Algorithms problems from:
+
+- LeetCode
+- Codeforces
+- CodeChef
+
+-> Language
+- Java
+
+-> Topics Covered
+- Arrays
+- Strings
+- Linked List (coming soon)
+
+-> Goal
+Solve DSA problems consistently and improve problem-solving skills.
