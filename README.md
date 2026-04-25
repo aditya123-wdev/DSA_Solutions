@@ -13,7 +13,9 @@ This repository contains my solutions to Data Structures & Algorithms problems f
 -> Topics Covered
 - Arrays
 - Strings
-- Linked List (coming soon)
+- Stack
+- Linked List
+- many more (coming soon)
 
 -> Goal
 Solve DSA problems consistently and improve problem-solving skills.
